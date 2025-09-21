@@ -18,7 +18,7 @@ The network learns sequential patterns in names and predicts the next character 
 
 ## File Structure
 - `names.xlsx` – Dataset of names.
-- `main.py` – Python script implementing the RNN, training, and testing.
+- `main.ipynb` – Python script implementing the RNN, training, and testing.
 - `README.md` – Project description.
 
 ## Project Steps
