@@ -28,7 +28,10 @@ The network learns sequential patterns in names and predicts the next character 
 4. Splitting dataset into training and test sets.  
 5. Initializing RNN parameters, embeddings, and batch normalization parameters.  
 6. Defining activation (`tanh`), loss (`softmax_cross_entropy`), batch normalization, forward, and backward functions.  
-7. Training loop: mini-batch gradient descent with adaptive learning rate.  
+7. Training loop: mini-batch gradient descent with adaptive learning rate.
+
+## Note
+This project is for learning purposes only and is not intended for use with actual training data or as a production-ready model.
 
 ## Author
 **Sandro Chopikashvili**  
